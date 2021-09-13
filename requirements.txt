@@ -1,0 +1,6 @@
+pytesseract
+pandas
+xlsxwriter
+vietocr
+pyyaml
+opencv-python>=4.0.0
